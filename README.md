@@ -1,3 +1,33 @@
+
+
+🎉 Dự án mã nguồn mở giúp toàn trình reup các video đa nên tảng
+
+Nếu bạn đang tìm một công cụ tự host để tải video và âm thanh từ nhiều nền tảng khác nhau thì ReClip là một dự án mã nguồn mở rất đáng chú ý.
+
+Được xây dựng trên yt-dlp, ReClip cung cấp một giao diện web đơn giản để tải video từ hơn 1.000 website, bao gồm YouTube, TikTok, Instagram, X, Facebook, Reddit, Vimeo và nhiều nền tảng khác.
+
+Một số điểm nổi bật:
+
+* Hỗ trợ tải video từ hơn 1.000 nền tảng thông qua yt-dlp.
+* Cho phép tải dưới dạng MP4 hoặc trích xuất MP3.
+* Tự động lấy thông tin video và thumbnail trước khi tải.
+* Hỗ trợ chọn chất lượng và độ phân giải.
+* Có thể dán nhiều liên kết cùng lúc và tự động loại bỏ liên kết trùng.
+* Giao diện Web tối giản, không sử dụng framework frontend phức tạp.
+* Backend chỉ khoảng 150 dòng Python với rất ít phụ thuộc, dễ đọc và tùy biến.
+
+Ứng dụng thực tế:
+
+* Xây dựng hệ thống tải video nội bộ.
+* Thu thập dữ liệu video phục vụ AI và Machine Learning.
+* Lưu trữ nội dung đào tạo để xem ngoại tuyến khi được phép.
+* Tích hợp vào các workflow xử lý video tự động.
+* Làm nền tảng cho các AI Agent xử lý và phân tích nội dung video.
+
+Lưu ý, dự án được phát triển cho mục đích hợp pháp và cá nhân. Khi sử dụng, hãy luôn tuân thủ bản quyền và điều khoản của từng nền tảng đối với nội dung bạn tải xuống.
+
+
+
 # ReClip
 
 A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3.
